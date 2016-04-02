@@ -1,0 +1,16 @@
+.center{
+  position:absolute; 
+  left:0; right:0;
+  top:0; bottom:0;
+  margin:auto;
+  height:200px;
+  width:800px;
+  text-align: center;
+  font-size:40px;
+}
+
+body{
+  font-family:'Alegreya Sans SC', Helvetica, Arial, sans-serif;
+  color:white;
+  background-color:#0d0d0d
+}
